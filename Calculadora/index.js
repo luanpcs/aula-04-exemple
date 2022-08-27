@@ -6,7 +6,7 @@ let n1, op, n2, resul
 n1 = prompt("Digite o primeiro número: ")
 
 console.log("Operações disponíveis: \n")
-console.log("| + | - | / | *| ^ |\n")
+console.log("| + | - | / | * | ^ | % |\n")
 
 op = prompt("Digite a operação desejada: ")
 
